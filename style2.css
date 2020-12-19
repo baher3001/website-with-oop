@@ -1,0 +1,51 @@
+.bg-light
+{
+    background-color: blue !important;
+}
+.navbar-light .navbar-brand
+{
+    color: white;
+}
+.nav-link
+{
+    color: white !important;
+}
+
+.btn:not(:disabled):not(.disabled)
+{
+    color: white !important;
+}
+section
+{
+    width: 100%;
+    height: 500px;
+    background-color: blue;
+    position: relative;
+}
+label
+{
+    color: white;
+}
+.form-control
+{
+    height: 50px;
+    border-radius: 15px;
+}
+footer
+{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+    color: white;
+}
+small
+{
+    color: red;
+    display: none;
+}
+i
+{
+    position: absolute;
+    right:60;
+    top: 270;
+}
